@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Mireille Inema" </title>Awesome Science application correspondance </title>
+    <meta name="author" content="Mireille Inema" 
+    
+    <title>Awesome Science application correspondance </title> 
     <style>
         html {
         font-size: 16px;
@@ -33,10 +35,10 @@
         margin: 1rem 0;
         }
         </style>
+    
+       
 </head>
-
-<body>
-                                                                         <p><strong>Dr. Eleanor Gaye</strong>
+<strong>Dr. Eleanor Gaye </strong>
                                                                                  Awesome Science faculty
                                                                                  University of Awesome
                                                                                  Bobtown, CA 99999,
@@ -46,6 +48,37 @@
 
                                                                                           20 January 2016
 
+
+<body>
+    <style>
+        html {
+        font-size: 16px;
+        }
+        body {
+        max-width: 800px;
+        margin: 0 auto;
+        }
+        .sender-column {
+        text-align: right;
+        }
+        h1 {
+        font-size: 1.5rem;
+        }
+        h2 {
+        font-size: 1.3rem;
+        }
+        p, ul, ol, dl, address {
+        font-size: 1.1rem;
+        }
+        p, li, dd, dt, address {
+        line-height: 1.5;
+        }
+        address {
+        font-style: normal;
+        margin: 1rem 0;
+        }
+        </style>
+                                                                     
 <strong>Miss Eileen Dover</strong>
     4321 Cliff Top Edge
     Dover, CT9 XXX
@@ -112,7 +145,7 @@
     Yours sincerely,
     Dr Eleanor Gaye
 
-    University of Awesome motto: "Be awesome to each other." -- Bill S Preston, Esq</p>
+    University of Awesome motto: "Be awesome to each other." -- Bill S Preston, Esq
 </body>
 
 </html>
